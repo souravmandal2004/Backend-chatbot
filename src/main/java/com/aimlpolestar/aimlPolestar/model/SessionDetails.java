@@ -1,6 +1,8 @@
 package com.aimlpolestar.aimlPolestar.model;
 
+import jakarta.persistence.Table;
 import lombok.Data;
+import org.springframework.boot.autoconfigure.domain.EntityScan;
 
 import java.util.ArrayList;
 
